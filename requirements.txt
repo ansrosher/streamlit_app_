@@ -15,6 +15,7 @@ termcolor
 scikit-learn
 xgboost
 vader-sentiment
+vaderSentiment
 textblob
 requests
 python-telegram-bot
