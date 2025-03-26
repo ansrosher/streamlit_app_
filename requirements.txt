@@ -10,7 +10,6 @@ numpy
 statistics
 pandas_ta
 matplotlib
-warnings
 tabulate
 termcolor
 scikit-learn
