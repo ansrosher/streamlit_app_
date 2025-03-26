@@ -27,3 +27,5 @@ binance-connector
 scipy
 ta
 python-binance
+plotly
+kaleido
