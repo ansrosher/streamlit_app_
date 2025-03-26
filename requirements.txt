@@ -26,3 +26,4 @@ statsmodels
 binance-connector
 scipy
 ta
+python-binance
