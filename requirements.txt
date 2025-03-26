@@ -6,9 +6,9 @@ google-generativeai
 pillow
 mplfinance
 googlenews
-numpy
+numpy==2.0.0
+pandas_ta==0.3.14b0
 statistics
-pandas_ta
 matplotlib
 tabulate
 termcolor
